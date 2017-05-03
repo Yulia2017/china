@@ -1,0 +1,144 @@
+   body {
+       border font-family: helvetica, san-serif;
+   }
+   
+   header {
+       background-image: url("china.png");
+       background-size: cover;
+       background-repeat: no-repeat;
+   }
+   
+   header h1,
+   header h4 {
+       color: white;
+   }
+   header i{
+text-align: center;
+
+   }
+   
+   .logo {
+       margin-top: 25px;
+       color: white;
+   }
+   
+   .navbar-nav>li>a {
+       color: white;
+   }
+   
+   .navbar-nav>li>a:hover {
+       color: #e74c3c;
+       background: none;
+   }
+   
+   .start {
+       text-decoration: underline;
+   }
+   
+   .btn-primary {
+       color: #fff;
+       background-color: #e74c3c;
+       padding: 20px 26px;
+       margin: 80px auto;
+       font-size: 32pt;
+       line-height: 1.33333333;
+       border-radius: 0px;
+       border: 10px solid rgba(251, 51, 51, 0.5);
+       -webkit-background-clip: padding-box;
+       background-clip: padding-box;
+   }
+   
+   .btn-primary:hover,
+   .btn-primary:active.focus,
+   .btn-primary:hover,
+   .btn-primary.focus,
+   .btn-primary.focus,
+   .btn-primary:focus,
+   .btn-primary:focus .btn-primary-active .btn-primary-active .open>.dropdown-toggle.btn-primary {
+       color: #fff;
+       background-color: #e74c3c;
+       border: 10px solid rgba(251, 51, 51, 0.5);
+   }
+   
+   .btn-primary.focus,
+   .btn-primary:focus {
+       color: gba(251, 51, 51)
+   }
+   
+   .btn-primary.active.focus,
+   .btn-primary.active:focus,
+   .btn-primary.active:hover,
+   .btn-primary:active.focus,
+   .btn-primary:active:focus,
+   .btn-primary:active:hover,
+   .open>.dropdown-toggle.btn-primary.focus,
+   .open>.dropdown-toggle.btn-primary:focus,
+   .open>.dropdown-toggle.btn-primary:hover {
+       outline: none;
+       color: #fff;
+       background-color: #e74c3c;
+       border: 10px solid rgba(251, 51, 51, 0.5);
+   }
+   
+   .modal-content .btn-primary {
+       border: none;
+       padding: 5px 15px;
+       font-size: 20px;
+   }
+   
+   .mopdal-footer {
+       text-align: center;
+   }
+   
+   .modaltitle {
+       color: #e74c3c;
+       text-align: center;
+       font-size: 36px;
+   }
+   
+   .modal input,
+   .modal textarea {
+       background: #e4e8e8;
+       border-radius: 0;
+       width: 40%;
+       margin: 5px;
+   }
+   
+   .modal input {
+       margin-bottom: 25%;
+   }
+   
+   .modal textarea {
+       height: 250px;
+   }
+   
+   .red {
+       color: red;
+   }
+   
+   .fa {
+       font-size: 24px;
+       
+   }
+   
+   main p {
+       color: #95a5a6;
+   }
+   
+  
+   
+   footer {
+       background-color: #e74c3c;
+      
+       color: white;
+       
+       
+   }
+   
+   footer i {
+       color: #fff;
+       background-color: #e74c3c;
+       border: 10px solid rgba(251, 51, 51, 0.5);
+       display: block;
+      
+   }
